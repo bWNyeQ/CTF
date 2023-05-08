@@ -1,0 +1,1 @@
+ nmap -A -T4 -p- -oA nmap/full_tcp $target
